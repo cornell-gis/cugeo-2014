@@ -45,7 +45,7 @@ For more detailed background on this effort, please see our pre-event briefing p
 1:20pm : Lightning Talks (5-minutes or less)
 - Religious Minorities and Resistance to Genocide: the collective rescue of Jews in the Netherlands / Robert Braun ([video](https://www.youtube.com/watch?v=bCP2d6ugiCs&list=PLs7Y2nGwfz4GkIpEYg1WCPXUxsdDAv14g&index=12))
 - The IRIS Repository: saving Geospatial history for the future / Diane Ayers
-- Geospatial Data and Application to Plant Breeding / Duke Pauli ([video]https://www.youtube.com/watch?v=lSnpSdDzvq4&list=PLs7Y2nGwfz4GkIpEYg1WCPXUxsdDAv14g&index=13))
+- Geospatial Data and Application to Plant Breeding / Duke Pauli ([video](https://www.youtube.com/watch?v=lSnpSdDzvq4&list=PLs7Y2nGwfz4GkIpEYg1WCPXUxsdDAv14g&index=13))
 - Thousands of closely packed, geo-located plants / James W. Clohessy ([video](https://www.youtube.com/watch?v=dpVX9P3Tf_c&list=PLs7Y2nGwfz4GkIpEYg1WCPXUxsdDAv14g&index=14))
 - GIS and Programming in Site Selection of Urban Parks / Xiaoling Li ([video](https://www.youtube.com/watch?v=e5l44PBNdaQ&list=PLs7Y2nGwfz4GkIpEYg1WCPXUxsdDAv14g&index=15))
 - From FOIL to Torque: Mapping Property Sales in Central Brooklyn / Emily Goldman ([video](https://www.youtube.com/watch?v=ZhU_ScLnPZk&list=PLs7Y2nGwfz4GkIpEYg1WCPXUxsdDAv14g&index=16))
